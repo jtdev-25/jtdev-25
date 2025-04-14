@@ -4,18 +4,23 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jtdev-25/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jtdev-25/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jtdev-25/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jtdev-25/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jtdev-25/azure-network-protocols)
+  - [osTicket: Post-Installation Configuration](https://github.com/jtdev-25/post-install-config) *In-progress*
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jtdev-25/ticket-lifecycle) *In-progress*
+- <b>Microsoft Azure: Active Directory</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jtdev-25/active-directory-summary)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jtdev-25/azure-network-protocols) *In-progress*
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Junior | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
 [linkedin]: https://linkedin.com/in/Josh
+
+<br><h2>🧩 Programming Projects: Java, CPP</h2>
+
+- Java *In-progress*
+  - 
+  - 
+- CPP *In-progress*
+  - 
+  - 
