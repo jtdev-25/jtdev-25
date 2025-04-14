@@ -12,9 +12,8 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Junior | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: <p>(https://www.linkedin.com/in/junior-tekodo-795702342)</p>
+<img align="left" alt="Junior | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<p>(https://www.linkedin.com/in/junior-tekodo-795702342)</p>
 
 <br><h2>🧩 Programming Projects: Java, CPP</h2>
 
