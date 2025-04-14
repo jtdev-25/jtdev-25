@@ -14,7 +14,7 @@
 
 [<img align="left" alt="Junior | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: [https://linkedin.com/in/Josh](https://www.linkedin.com/in/junior-tekodo-795702342)
 
 <br><h2>🧩 Programming Projects: Java, CPP</h2>
 
