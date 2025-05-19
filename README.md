@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Installation and Setup](https://github.com/jtdev-25/osticket-installation.setup) *In-progress*
+  - [osTicket: Installation and Setup](https://github.com/jtdev-25/osticket-installation.setup)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jtdev-25/osticket-ticket.lifecycle.examples) *In-progress*
 - <b>Microsoft Azure: Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jtdev-25/active-directory-summary)
