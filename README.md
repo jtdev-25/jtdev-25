@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation and Setup](https://github.com/jtdev-25/osticket-installation.setup) *In-progress*
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jtdev-25/ticket-lifecycle) *In-progress*
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jtdev-25/osticket-ticket.lifecycle.examples) *In-progress*
 - <b>Microsoft Azure: Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jtdev-25/active-directory-summary)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jtdev-25/azure-network-protocols) *In-progress*
